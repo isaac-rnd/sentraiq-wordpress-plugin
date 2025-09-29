@@ -20,3 +20,6 @@ Content moderation plugin for WordPress.
 <img width="792" height="213" alt="image" src="https://github.com/user-attachments/assets/54efadca-f0ae-4588-a58a-ae5fbfcf81c8" />
 <img width="465" height="425" alt="image" src="https://github.com/user-attachments/assets/9fd86352-f928-44a1-a8b6-5991361a2c31" />
 
+# Demo :
+<video controls src="demo_video.mp4" title="Title"></video>
+
